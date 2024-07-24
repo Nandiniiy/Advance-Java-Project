@@ -1,0 +1,20 @@
+Stack:
+The stack data structure is a linear data structure that accompanies a principle known as  LIFO (Last In First Out) or FILO (First In Last Out). Real-life examples of a stack are a deck of cards, piles of books, piles of money, and many more.
+ It contains only one pointer top pointer pointing to the topmost element of the stack. Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack. In other words, a stack can be defined as a container in which insertion and deletion can be done from the one end known as the top of the stack.
+
+Basic Operations on Stack
+Push Operation- Push operation involves inserting new elements in the stack. Since you have only one end to insert a unique element on top of the stack, it inserts the new element at the top of the stack.
+o	push(): When we insert an element in a stack then the operation is known as a push. If the stack is full then the overflow condition occurs.
+Pop Operation- Pop operation refers to removing the element from the stack again since you have only one end to do all top of the stack. So removing an element from the top of the stack is termed pop operation.
+o	pop(): When we delete an element from the stack, the operation is known as a pop. If the stack is empty means that no element exists in the stack, this state is known as an underflow state.
+
+QUEUE:
+Queue is an ordered list in which all insertions at one end called REAR and deletions are made at another end called FRONT. Queues are sometimes referred to as First In First Out (FIFO) list.
+
+For example, people waiting in line at the bank queue counter from a queue.
+In computer, the jobs waiting in line to use processor for execution, this queue is known as Job Queue.
+Basic Operations on Queue
+Enqueue Operation- It inserts item or element at the rear of the queue. An error occurs if the queue is full.
+Dequeue Operation- It removes or deletes an item or element from the front end of the queue, and returns to the user. An error occurs if the queue is empty
+
+
