@@ -13,4 +13,3 @@ Once you run the program, it should display a LinkedList of 10 random integers i
 ![77](https://github.com/user-attachments/assets/0b0f902d-6911-46e5-b09b-0127e27df2e1)
 ![99](https://gith
 ![101](https://github.com/user-attachments/assets/315f2a98-eb1d-4e24-b137-5b757fdef36a)
-ub.com/user-attachments/assets/8d4caa34-8d74-4398-8148-e7b1bc968a07)
