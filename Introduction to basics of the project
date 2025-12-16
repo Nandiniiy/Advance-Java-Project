@@ -1,6 +1,9 @@
 Stack:
-The stack data structure is a linear data structure that accompanies a principle known as  LIFO (Last In First Out) or FILO (First In Last Out). Real-life examples of a stack are a deck of cards, piles of books, piles of money, and many more.
- It contains only one pointer top pointer pointing to the topmost element of the stack. Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack. In other words, a stack can be defined as a container in which insertion and deletion can be done from the one end known as the top of the stack.
+The stack data structure is a linear data structure that accompanies a principle known as  LIFO (Last In First Out) or FILO (First In Last Out). 
+Real-life examples of a stack are a deck of cards, piles of books, piles of money, and many more.
+It contains only one pointer top pointer pointing to the topmost element of the stack. 
+Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack.
+In other words, a stack can be defined as a container in which insertion and deletion can be done from the one end known as the top of the stack.
 
 Basic Operations on Stack
 Push Operation- Push operation involves inserting new elements in the stack. Since you have only one end to insert a unique element on top of the stack, it inserts the new element at the top of the stack.
