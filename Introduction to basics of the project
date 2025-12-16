@@ -18,6 +18,6 @@ For example, people waiting in line at the bank queue counter from a queue.
 In computer, the jobs waiting in line to use processor for execution, this queue is known as Job Queue.
 Basic Operations on Queue
 Enqueue Operation- It inserts item or element at the rear of the queue. An error occurs if the queue is full.
-Dequeue Operation- It removes or deletes an item or element from the front end of the queue, and returns to the user. An error occurs if the queue is empty
+Dequeue Operation- It removes or deletes an item or element from the front end of the queue, and returns to the user. An error occurs if the queue is empty.
 
 
